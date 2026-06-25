@@ -1,4 +1,4 @@
-# 🍰 Blisskery — Bakery Ordering System
+# 🍰 Blisskery - Bakery Ordering System
 
 > A Java Swing desktop application for a bakery, featuring customer ordering, an admin dashboard, a cooking challenge mini-game, and MySQL-backed persistence. Built as an OOP course project.
 
