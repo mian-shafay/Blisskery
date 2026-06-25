@@ -153,7 +153,7 @@ The app uses a soft **baby-pink** colour palette throughout:
 ## 👤 Author
 
 **Muhammad Shafay**  
-OOP Course Project · 2025
+OOP Course Project · 2026
 
 ---
 
