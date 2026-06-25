@@ -4,6 +4,33 @@
 
 ---
 
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/login.png" width="300"/><br/>
+      <b>🔐 Login Screen</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/admin.png" width="300"/><br/>
+      <b>🛠️ Admin Dashboard</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/customer.png" width="300"/><br/>
+      <b>🛒 Customer Ordering Panel</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/challenge.png" width="300"/><br/>
+      <b>🎮 Speed Challenge Mini-Game</b>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## ✨ Features
 
 ### 👤 Authentication
@@ -53,6 +80,12 @@ Blisskery/
 ├── scripts/
 │   ├── build.ps1               # PowerShell: compiles all .java → bin/
 │   └── run.ps1                 # PowerShell: runs Main from bin/
+│
+├── screenshots/                # UI screenshots
+│   ├── login.png
+│   ├── admin.png
+│   ├── customer.png
+│   └── challenge.png
 │
 └── README.md
 ```
